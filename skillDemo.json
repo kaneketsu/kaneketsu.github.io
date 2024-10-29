@@ -1,0 +1,172 @@
+{
+    "data": {
+        "Gekko": {
+            "displayName": "Gekko",
+            "abilities": [
+                {
+                    "name": "Wingman",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/e9a92a506942c735f5a986ee9489fad34b192843.mp4"
+                },
+                {
+                    "name": "Dizzy",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/f3a565e0cde441f1754eeadda2427020a795d4a0.mp4"
+                },
+                {
+                    "name": "Mosh Pit",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/85f2c3958091bf4b8fb475c8bda0dcb10a409fbc.mp4"
+                },
+                {
+                    "name": "Thrash",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/fe30846150b8f87f7f945a3f0c82e59d0522dbdc.mp4"
+                }
+            ]
+        },
+        "Fade": {
+            "displayName": "Fade",
+            "abilities": [
+                {
+                    "name": "Seize",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/ed5b27f8f8acf6420d5f0e30938e963a204cfeca.mp4"
+                },
+                {
+                    "name": "Haunt",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/2ee3d74b1105ab3cd996821fb07e4d6aa5c77c1a.mp4"
+                },
+                {
+                    "name": "Prowler",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/d401c0074081fd609fa08710174f27fc216c5b92.mp4"
+                },
+                {
+                    "name": "Nightfall",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/fd638db2f5041f8bc09f311af2c460cec579edcd.mp4"
+                }
+            ]
+        },
+        "Breach": {
+            "displayName": "Breach",
+            "abilities": [
+                {
+                    "name": "Flashpoint",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/ffa4695b83e2f959bc59f0393dfc74e533546a89.mp4"
+                },
+                {
+                    "name": "Fault Line",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/a4f24e1fe60879234be5da0f8a768feb8f379fdd.mp4"
+                },
+                {
+                    "name": "Aftershock",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/592212ab60d09999d493c2099f9260d59fab917a.mp4"
+                },
+                {
+                    "name": "Rolling Thunder",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/207b0ab21f8e27e98ca22f4b5546cc0963d94af6.mp4"
+                }
+            ]
+        },
+        "Deadlock": {
+            "displayName": "Deadlock",
+            "abilities": [
+                {
+                    "name": "Sonic Sensor",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/e2c77e5b49fc3b53a7c625eb7646e51e7094dc52.mp4"
+                },
+                {
+                    "name": "Barrier Mesh",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/a9dc93d62c1ae6c51b12ed1e84a5d96c678677f9.mp4"
+                },
+                {
+                    "name": "GravNet",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/d7576f43161214699762f1858e2fc8e2d3112077.mp4"
+                },
+                {
+                    "name": "Annihilation",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/b995bab386bd58541eacfe0e065a808081c0b9ea.mp4"
+                }
+            ]
+        },
+        "Raze": {
+            "displayName": "Raze",
+            "abilities": [
+                {
+                    "name": "Blast Pack",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/82028c5e9ae38b59660dbf9f57f341f1c20c5480.mp4"
+                },
+                {
+                    "name": "Paint Shells",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/d75fd65435a84906bb3e8ad0b97c505e7359697b.mp4"
+                },
+                {
+                    "name": "Boom Bot",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/c824fe8e08a4f36be2273aa456819d2c2b6cd6b0.mp4"
+                },
+                {
+                    "name": "Showstopper",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/7281a34566f12d202dee3d43e0fa0bf0b4271d60.mp4"
+                }
+            ]
+        },
+        "Chamber": {
+            "displayName": "Chamber",
+            "abilities": [
+                {
+                    "name": "Rendezvous",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/6d191f3734a8170d99f66642041da9f33240d319.mp4"
+                },
+                {
+                    "name": "Trademark",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/245fa173c5d3677e3838d52fb155b6366d19c91b.mp4"
+                },
+                {
+                    "name": "Headhunter",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/745571f61d83d880c42278a35a072cdd8b7bfa12.mp4"
+                },
+                {
+                    "name": "Tour De Force",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/49f14376a65d54586c350e7fe863ba30911032a0.mp4"
+                }
+            ]
+        },
+        "KAY/O": {
+            "displayName": "KAY/O",
+            "abilities": [
+                {
+                    "name": "FRAG/Ment",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/292e5319f9cd0aa7eee01af47413f4009236f87e.mp4"
+                },
+                {
+                    "name": "FLASH/Drive",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/9ad839fef2fd8d16d9608f8a6efd709091f0b74a.mp4"
+                },
+                {
+                    "name": "ZERO/Point",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/dbccb81297a30a9ddc92ec1883c832298f014504.mp4"
+                },
+                {
+                    "name": "NULL/cmd",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/d9e35cc5d68e533df2d6e15a93471a5c073b0471.mp4"
+                }
+            ]
+        },
+        "Skye": {
+            "displayName": "Skye",
+            "abilities": [
+                {
+                    "name": "Trailblazer",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/3256cb83ad3563516497864209ea585c595cd8df.mp4"
+                },
+                {
+                    "name": "Guiding Light",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/a585ff23d650c5456d9a05d169564eb7b1a07e9f.mp4"
+                },
+                {
+                    "name": "Regrowth",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/b153cc8fbb4f15bb7095e953cc6d7ca22990c1c5.mp4"
+                },
+                {
+                    "name": "Seekers",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/7c8b45d6eaf91fc8634de4ac2b17ee8b206dbdb9.mp4"
+                }
+            ]
+        }
+    }
+}
