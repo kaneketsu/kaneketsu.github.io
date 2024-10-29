@@ -1,6 +1,6 @@
 {
-    "data": {
-        "Gekko": {
+    "data": [
+        {
             "displayName": "Gekko",
             "abilities": [
                 {
@@ -21,7 +21,7 @@
                 }
             ]
         },
-        "Fade": {
+        {
             "displayName": "Fade",
             "abilities": [
                 {
@@ -42,7 +42,7 @@
                 }
             ]
         },
-        "Breach": {
+        {
             "displayName": "Breach",
             "abilities": [
                 {
@@ -63,7 +63,7 @@
                 }
             ]
         },
-        "Deadlock": {
+        {
             "displayName": "Deadlock",
             "abilities": [
                 {
@@ -84,7 +84,7 @@
                 }
             ]
         },
-        "Raze": {
+        {
             "displayName": "Raze",
             "abilities": [
                 {
@@ -105,7 +105,7 @@
                 }
             ]
         },
-        "Chamber": {
+        {
             "displayName": "Chamber",
             "abilities": [
                 {
@@ -126,7 +126,7 @@
                 }
             ]
         },
-        "KAY/O": {
+        {
             "displayName": "KAY/O",
             "abilities": [
                 {
@@ -147,7 +147,7 @@
                 }
             ]
         },
-        "Skye": {
+        {
             "displayName": "Skye",
             "abilities": [
                 {
@@ -168,7 +168,7 @@
                 }
             ]
         },
-        "Cypher": {
+        {
             "displayName": "Cypher",
             "abilities": [
                 {
@@ -189,7 +189,7 @@
                 }
             ]
         },
-        "Sova": {
+        {
             "displayName": "Sova",
             "abilities": [
                 {
@@ -210,7 +210,7 @@
                 }
             ]
         },
-        "Killjoy": {
+        {
             "displayName": "Killjoy",
             "abilities": [
                 {
@@ -231,7 +231,7 @@
                 }
             ]
         },
-        "Harbor": {
+        {
             "displayName": "Harbor",
             "abilities": [
                 {
@@ -252,7 +252,7 @@
                 }
             ]
         },
-        "Vyse": {
+        {
             "displayName": "Vyse",
             "abilities": [
                 {
@@ -273,7 +273,7 @@
                 }
             ]
         },
-        "Viper": {
+        {
             "displayName": "Viper",
             "abilities": [
                 {
@@ -294,7 +294,7 @@
                 }
             ]
         },
-        "Phoenix": {
+        {
             "displayName": "Phoenix",
             "abilities": [
                 {
@@ -315,7 +315,7 @@
                 }
             ]
         },
-        "Astra": {
+        {
             "displayName": "Astra",
             "abilities": [
                 {
@@ -336,7 +336,7 @@
                 }
             ]
         },
-        "Brimstone": {
+        {
             "displayName": "Brimstone",
             "abilities": [
                 {
@@ -357,7 +357,7 @@
                 }
             ]
         },
-        "Iso": {
+        {
             "displayName": "Iso",
             "abilities": [
                 {
@@ -378,7 +378,7 @@
                 }
             ]
         },
-        "Clove": {
+        {
             "displayName": "Clove",
             "abilities": [
                 {
@@ -399,7 +399,7 @@
                 }
             ]
         },
-        "Neon": {
+        {
             "displayName": "Neon",
             "abilities": [
                 {
@@ -420,7 +420,7 @@
                 }
             ]
         },
-        "Yoru": {
+        {
             "displayName": "Yoru",
             "abilities": [
                 {
@@ -441,7 +441,7 @@
                 }
             ]
         },
-        "Sage": {
+        {
             "displayName": "Sage",
             "abilities": [
                 {
@@ -462,7 +462,7 @@
                 }
             ]
         },
-        "Reyna": {
+        {
             "displayName": "Reyna",
             "abilities": [
                 {
@@ -483,7 +483,7 @@
                 }
             ]
         },
-        "Omen": {
+        {
             "displayName": "Omen",
             "abilities": [
                 {
@@ -504,7 +504,7 @@
                 }
             ]
         },
-        "Jett": {
+        {
             "displayName": "Jett",
             "abilities": [
                 {
@@ -525,5 +525,5 @@
                 }
             ]
         }
-    }
+    ]
 }
