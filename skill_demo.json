@@ -156,15 +156,372 @@
                 },
                 {
                     "name": "Guiding Light",
-                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/a585ff23d650c5456d9a05d169564eb7b1a07e9f.mp4"
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/64edfd7af8a7125dd9c981c52fdc60f9560b821b.mp4"
                 },
                 {
                     "name": "Regrowth",
-                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/b153cc8fbb4f15bb7095e953cc6d7ca22990c1c5.mp4"
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/d64273e31bf2c4d16c52acc2f461e9accdb7c7f9.mp4"
                 },
                 {
                     "name": "Seekers",
-                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/7c8b45d6eaf91fc8634de4ac2b17ee8b206dbdb9.mp4"
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/82ab63d9255f9fbbea7c13e00cd46b09ff90d25b.mp4"
+                }
+            ]
+        },
+        "Cypher": {
+            "displayName": "Cypher",
+            "abilities": [
+                {
+                    "name": "Cyber Cage",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/54a8dfaa9b82c7aaf994b0432bb25ef1e95c985c.mp4"
+                },
+                {
+                    "name": "Spycam",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/825ba0643c74ad583350d1eb562bb7650ad78ae0.mp4"
+                },
+                {
+                    "name": "Trapwire",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/aab21b75eb43f0e8cc9c0b816cb4877ae868b9fd.mp4"
+                },
+                {
+                    "name": "Neural Theft",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/ddeaad5ff2e4865351755b71fdc4fc97339fb334.mp4"
+                }
+            ]
+        },
+        "Sova": {
+            "displayName": "Sova",
+            "abilities": [
+                {
+                    "name": "Shock Bolt",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/7776fa677e90c72da94ec7d188d2d4618116c41b.mp4"
+                },
+                {
+                    "name": "Recon Bolt",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/50f9d870fa2a9b9ba38408eb718ffc06879c11a8.mp4"
+                },
+                {
+                    "name": "Owl Drone",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/6c6f036376c18ddf4ed0c589b506b8889d86a29a.mp4"
+                },
+                {
+                    "name": "Hunter's Fury",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/df9ce34c3d2a7f527929cac123501e1473e0da0e.mp4"
+                }
+            ]
+        },
+        "Killjoy": {
+            "displayName": "Killjoy",
+            "abilities": [
+                {
+                    "name": "Nanoswarm",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/b47a0b24d2499935d28f845a067984a52dbc2542.mp4"
+                },
+                {
+                    "name": "Alarmbot",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/0582e7e1a0733667614492129abef67e17cfc92c.mp4"
+                },
+                {
+                    "name": "Turret",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/007e5042385d6f7315f4b4cb3fbd3b2c71b530c1.mp4"
+                },
+                {
+                    "name": "Lockdown",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/9485f7bbf04841f4c37e031f07dad03e9cbc1bf9.mp4"
+                }
+            ]
+        },
+        "Harbor": {
+            "displayName": "Harbor",
+            "abilities": [
+                {
+                    "name": "Cove",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/7e56441c47781a35a5893cc7ceadcfa6c23b1ee2.mp4"
+                },
+                {
+                    "name": "Cascade",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/eb767e57ea6e86cfb0992c92522ba8d606db8223.mp4"
+                },
+                {
+                    "name": "High Tide",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/6494d70cdea21aa4cb59b16d0f0b95c9432d709b.mp4"
+                },
+                {
+                    "name": "Reckoning",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/7a0d8e7b1457dd4df4f09da842e72273b0621f41.mp4"
+                }
+            ]
+        },
+        "Vyse": {
+            "displayName": "Vyse",
+            "abilities": [
+                {
+                    "name": "Shear",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/bacb07fdf5b13efeab5e24168f8e244257c1d0cb.mp4"
+                },
+                {
+                    "name": "Arc Rose",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/5cefca2b93f097285ce2cb4f20fec7184b555218.mp4"
+                },
+                {
+                    "name": "Razorvine",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/84154b3401b08acad60d739616017a4fcd86710a.mp4"
+                },
+                {
+                    "name": "Steel Garden",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/f9d32afb39a3260b915ea6ef441054c904a69e91.mp4"
+                }
+            ]
+        },
+        "Viper": {
+            "displayName": "Viper",
+            "abilities": [
+                {
+                    "name": "Poison Cloud",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/49ff8efd75b76941da3018362061275d3a1d43d6.mp4"
+                },
+                {
+                    "name": "Toxic Screen",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/36db8f44946850c2a20aba43d8ad3ecd977c7d7e.mp4"
+                },
+                {
+                    "name": "Snake Bite",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/9eeb3090efed080792e6ea2f264fd60ebb12694e.mp4"
+                },
+                {
+                    "name": "Viper's Pit",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/4601fd972c588a79cdd910b2497546f156886c40.mp4"
+                }
+            ]
+        },
+        "Phoenix": {
+            "displayName": "Phoenix",
+            "abilities": [
+                {
+                    "name": "Curveball",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/c62125b1b5637b7b0e0881348502f7e8b8e93572.mp4"
+                },
+                {
+                    "name": "Hot Hands",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/b702ed368fd050e7cb77adf26bc55bb63c5936fb.mp4"
+                },
+                {
+                    "name": "Blaze",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/8c5b0e23be0814583ad4601b4297d04dbaff79f7.mp4"
+                },
+                {
+                    "name": "Run It Back",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/aa122a33b1ef0320174991b8ddee4e82dbc2b937.mp4"
+                }
+            ]
+        },
+        "Astra": {
+            "displayName": "Astra",
+            "abilities": [
+                {
+                    "name": "Nova Pulse",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/e54ed10355d571c15ef2ee5a0897cca06851fd56.mp4"
+                },
+                {
+                    "name": "Nebula / Dissipate",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/2aafadb8cef8c1ab2894a657c23988e921b006c8.mp4"
+                },
+                {
+                    "name": "Gravity Well",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/3439c939846214067561746668bfd96805efc225.mp4"
+                },
+                {
+                    "name": "Astral Form / Cosmic Divide",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/6bed3444d432f27cdac08f3be1dad2760be7052f.mp4"
+                }
+            ]
+        },
+        "Brimstone": {
+            "displayName": "Brimstone",
+            "abilities": [
+                {
+                    "name": "Stim Beacon",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/da2d65e4abc2129e284cf5248fd70925f093a0b3.mp4"
+                },
+                {
+                    "name": "Incendiary",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/9df59d490062acceb7c6ca32a3650b55718381f7.mp4"
+                },
+                {
+                    "name": "Sky Smoke",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/8e0b72295747346b60c354765944f5233fb208f2.mp4"
+                },
+                {
+                    "name": "Orbital Strike",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/ccd8e6c574b7017a2681e5d37c744f5a654327e3.mp4"
+                }
+            ]
+        },
+        "Iso": {
+            "displayName": "Iso",
+            "abilities": [
+                {
+                    "name": "Undercut",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/17503f71b58f654d583a66e29dab75460677576f.mp4"
+                },
+                {
+                    "name": "Kill Contract",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/6fbd2b0e16ac3bda095094770ce6b1d403fc3832.mp4"
+                },
+                {
+                    "name": "Double Tap",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/11ad2731215ec978c89fdb675aaf3b591c3c3c55.mp4"
+                },
+                {
+                    "name": "Contingency",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/5e331c774ffde4e8e0c45a8844b0237b7d75ba3b.mp4"
+                }
+            ]
+        },
+        "Clove": {
+            "displayName": "Clove",
+            "abilities": [
+                {
+                    "name": "Pick-me-up",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/4adb022f083d3887f73d23f60de71cccb45e6d83.mp4"
+                },
+                {
+                    "name": "Ruse",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/f74f0d7b96cae0bcf51e97ad99883a370508a381.mp4"
+                },
+                {
+                    "name": "Not Dead Yet",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/b9e4ee59e2e2a492ec5a76f71c2161faa6f03981.mp4"
+                },
+                {
+                    "name": "Meddle",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/71b28c3a8e3b6f29a2523f2cada52f2ea5a1eab0.mp4"
+                }
+            ]
+        },
+        "Neon": {
+            "displayName": "Neon",
+            "abilities": [
+                {
+                    "name": "High Gear",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/a1c82c1a3aa3676bbff05dae9af8fdd8f2f25fb7.mp4"
+                },
+                {
+                    "name": "Relay Bolt",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/db28dddd3cf49297ca4c10c1898e4d3702af9d6f.mp4"
+                },
+                {
+                    "name": "Fast Lane",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/c1ba9d2ec4c567f6b27ddeab512ed245d5706e6b.mp4"
+                },
+                {
+                    "name": "Overdrive",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/917de7be4f9bad96b54f47a4de6f91c323a57a6a.mp4"
+                }
+            ]
+        },
+        "Yoru": {
+            "displayName": "Yoru",
+            "abilities": [
+                {
+                    "name": "FAKEOUT",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/ef008c8e848a054f88e88f173c03279a45a1c796.mp4"
+                },
+                {
+                    "name": "BLINDSIDE",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/295ab26ef6097d28da0bef9c9b4c6185a80071c8.mp4"
+                },
+                {
+                    "name": "GATECRASH",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/be352287c5704d82d1acbff5ecdee5187755d235.mp4"
+                },
+                {
+                    "name": "DIMENSIONAL DRIFT",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/9ca7fac6ec9514fa06b9785aad2ead0c3fba0eec.mp4"
+                }
+            ]
+        },
+        "Sage": {
+            "displayName": "Sage",
+            "abilities": [
+                {
+                    "name": "Slow Orb",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/45053483528b96cbe003ac39e6b53c9866d5fea6.mp4"
+                },
+                {
+                    "name": "Healing Orb",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/a247d196383136d3de15b4d6d9c816e3c8054ba0.mp4"
+                },
+                {
+                    "name": "Barrier Orb",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/a79b1d6838cee5572b428babd74a2db0c07f4ea5.mp4"
+                },
+                {
+                    "name": "Resurrection",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/df83929ed5da349c37a5bf4600c2b55010c72402.mp4"
+                }
+            ]
+        },
+        "Reyna": {
+            "displayName": "Reyna",
+            "abilities": [
+                {
+                    "name": "Devour",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/327ccef09ef3c84a92320593c5db1bcb4b37e1e7.mp4"
+                },
+                {
+                    "name": "Dismiss",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/6a7db5a37dd8e6e6671699ff30ad297cf1f2eeda.mp4"
+                },
+                {
+                    "name": "Leer",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/01030fba2df618b91c6185bb076f54e8c6c40415.mp4"
+                },
+                {
+                    "name": "Empress",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/d777e81e035db1430b1fbf664a432163deed5afb.mp4"
+                }
+            ]
+        },
+        "Omen": {
+            "displayName": "Omen",
+            "abilities": [
+                {
+                    "name": "Paranoia",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/f401fc788f3182b6d5aa25af6056c842117b1b36.mp4"
+                },
+                {
+                    "name": "Dark Cover",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/ba0b035a5ff2bb8d9487ba461b3d15900ff50f6b.mp4"
+                },
+                {
+                    "name": "Shrouded Step",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/33550fee410c5a55ea8832f41827a12aaddb686f.mp4"
+                },
+                {
+                    "name": "From The Shadows",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/252cf8ad86b6aca6210ba93ea856f52708476eba.mp4"
+                }
+            ]
+        },
+        "Jett": {
+            "displayName": "Jett",
+            "abilities": [
+                {
+                    "name": "Updraft",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/4cbc968f05713579aae9464c5a16dc3f6863f943.mp4"
+                },
+                {
+                    "name": "Tailwind",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/ec6b3cf1f8ac09d597b0193de1d7bb81335b40e4.mp4"
+                },
+                {
+                    "name": "Cloudburst",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/3353597819f0c032d56ff947d9762368b4ee6c6b.mp4"
+                },
+                {
+                    "name": "Blade Storm",
+                    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/game_data/667770571300e065b332617e5c8f2e009ed88928.mp4"
                 }
             ]
         }
