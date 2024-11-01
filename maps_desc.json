@@ -1,0 +1,180 @@
+{
+    "data": [
+        {
+            "displayName": "Bind",
+            "narrativeDescription": "Two sites. No middle. Gotta pick left or right. What’s it going to be then? Both offer direct paths for attackers and a pair of one-way teleporters make it easier to flank.",
+            "wikiDescription": [
+                {
+                    "description": "Bind's unique feature is that it doesn't contain a mid section, instead having two one-way teleporters. One takes players from A Short to B Short and the other takes players from B Long to A Lobby."
+                },
+                {
+                    "description": "Players use teleporters by walking into the section of wall taken up by the teleport entrance. They will then instantly arrive in a small exit room which players leave by walking towards the door out of the room. This door is closed by default and can only be opened by players inside the exit room walking up to it, at which point they will open automatically. Players outside the exit room cannot open these doors, but they can be penetrated by gunfire."
+                },
+                {
+                    "description":"Other objects can also be sent through teleporters if they come into contact with the teleporter entrance. They will maintain any velocity they had before being teleported and can open the doors and leave the exit room should they travel far enough to trigger the door sensor. Objects include abilities, the spike, and dropped weapons."
+                }
+            ],
+            "location": "Rabat, Morocco, Alpha Earth"
+        },
+        {
+            "displayName": "Haven",
+            "narrativeDescription": "Beneath a forgotten monastery, a clamour emerges from rival Agents clashing to control three sites. There’s more territory to control, but defenders can use the extra real estate for aggressive pushes.",
+            "wikiDescription": [
+                {
+                    "description":"Haven's features include an additional third spike site. This does not affect the number of ultimate orbs on the map; Haven's two ultimate orbs are present in A Long and C Long (Dragon)."
+                },
+                {
+                    "description":"The doors at Mid also have destructible panels covering them. Whilst intact, they absorb damage and cannot be penetrated by gunfire. The panels however have 400 HP each and can be damaged, with colored indicators on them implying how much health they have left (starts blue, then turns yellow and then red as they take more damage). They can eventually be destroyed to allow players to wallbang through these doors for the rest of the round."
+                },
+                {
+                    "description":null
+                }
+            ],
+            "location": "Thimphu, Bhutan, Alpha Earth"
+        },
+        {
+            "displayName": "Split",
+            "narrativeDescription": "If you want to go far, you’ll have to go up. A pair of sites split by an elevated center allows for rapid movement using two rope ascenders. Each site is built with a looming tower vital for control. Remember to watch above before it all blows sky-high.",
+            "wikiDescription": [
+                {
+                    "description":null
+                },
+                {
+                    "description":null
+                },
+                {
+                    "description":null
+                }
+            ],
+            "location": "Tokyo, Japan, Alpha Earth"
+        },
+        {
+            "displayName": "Ascent",
+            "narrativeDescription": "An open playground for small wars of position and attrition divide two sites on Ascent. Each site can be fortified by irreversible bomb doors; once they’re down, you’ll have to destroy them or find another way. Yield as little territory as possible.",
+            "wikiDescription": [
+                {
+                    "description":"Ascent's features include mechanical doors leading into its spike sites. Each site has one door (A Link for A and Market for B) that is opened at the start of each round. Players can use a switch on the site side of the door (Next to the door on A and on a table in Toolshed on B) to close or open the door. These doors are impenetrable while closed but have 500 HP, allowing players to damage and eventually destroy them. Once destroyed, the doorway remains permanently open for the rest of the round."
+                },
+                {
+                    "description":"The two walls separating Courtyard from Link also have a destructible panel each to cover them. Whilst intact, they absorb damage and cannot be penetrated by gunfire. The panels however have 400 HP each and can be damaged, with colored indicators on them implying how much health they have left (starts blue, then turns yellow and then red as they take more damage). They can eventually be destroyed to allow players to wallbang through these walls for the rest of the round."
+                },
+                {
+                    "description":"A Window also has a destructible glass pane looking into A Garden. It will be immediately destroyed upon contact with any bullets, ability projectiles, or other abilities that an agent can guide through the glass (e.g. Phoenix's Blaze Blaze). Any abilities that an agent has to possess to use (e.g. Sova's Owl Drone Owl Drone) or mobile abilities deployed on the ground that the agent doesn't control further (e.g. Raze's Boom Bot Boom Bot) will not break through on contact with the glass."
+                }
+            ],
+            "location": "Venice, Italy, Alpha Earth"
+        },
+        {
+            "displayName": "Icebox",
+            "narrativeDescription": "Your next battleground is a secret Kingdom excavation site overtaken by the arctic. The two plant sites protected by snow and metal require some horizontal finesse. Take advantage of the ziplines and they’ll never see you coming.",
+            "wikiDescription": [
+                {
+                    "description":"Icebox is the first map to introduce horizontal ziplines, seen at A Site. Each Icebox site is a complex combat space that features plenty of cover and verticality. This map emphasizes skirmishes, sharp aim, and adaptive play."
+                },
+                {
+                    "description":"It is also the first map where the plant site has different levels of elevation. Both sites contain nests that players can get into using ropes and then plant the spike on the nest floor."
+                },
+                {
+                    "description":null
+                }
+            ],
+            "location": "Bennett Island, Russia, Alpha Earth"
+        },
+        {
+            "displayName": "Breeze",
+            "narrativeDescription": "Take in the sights of historic ruins or seaside caves on this tropical paradise. But bring some cover. You'll need them for the wide open spaces and long range engagements. Watch your flanks and this will be a Breeze.",
+            "wikiDescription": [
+                {
+                    "description":"Breeze's features are present on the A side of the map, mostly to do with A Hall. There are ropes to get players into A Hall. On the defending side players can use the rope at the back of A Site to get onto Bridge and into Hall, and on the attacking side players can use the rope in A Lobby to get into Hall."
+                },
+                {
+                    "description":"A Site has an impenetrable, indestructible mechanical door leading into A Hall that can be opened and closed using switches on either side. The door is closed at the start of each round."
+                },
+                {
+                    "description":"Towards the Attacker side of Hall is an one-way chute (also known as a 'vent') that can be used to go to Mid. Players and other objects can travel through the chute, which contains an automatic horizontal door. This door cannot be opened from underneath at the chute's exit in Mid, preventing certain agents from using mobility abilities to travel up the chute from Mid into A Hall, as well as preventing other objects from being thrown up the chute. A loud audio cue will be heard whenever the door opens to let something travel down the chute."
+                }
+            ],
+            "location": "Bermuda Triangle, Atlantic Ocean, Alpha Earth"
+        },
+        {
+            "displayName": "Fracture",
+            "narrativeDescription": "A top secret research facility split apart by a failed radianite experiment. With defender options as divided as the map, the choice is yours: meet the attackers on their own turf or batten down the hatches to weather the assault.",
+            "wikiDescription": [
+                {
+                    "description":"Fracture's unique design splits up the map into four neutral quadrants; four central areas between the quadrants that contain the sites and Attacker spawns, and a central zone where Defenders spawn. On Round Start, Defenders can access the sites, which are on opposite sides of the map. Attackers all spawn in one area, but can reach the other side by using the cross-map ziplines that take them underneath Defender Spawn. During the Buy Phase, Defenders are unable to hear Attackers using the ziplines."
+                },
+                {
+                    "description":"Each quadrant contains one orb, meaning Fracture has a total of four orbs as opposed to the usual total of two orbs that are present on most other maps."
+                },
+                {
+                    "description":"A Hall contains an automatic door that works similarly to the exit room doors for Bind's teleporters, as it will instantly open once a player gets close enough, making a loud audio cue as it does, and will also open for any objects thrown towards it. This door on Fracture however will also open for entities on both sides of the door."
+                }
+            ],
+            "location": "Santa Fe County, New Mexico, USA, Alpha Earth"
+        },
+        {
+            "displayName": "Pearl",
+            "narrativeDescription": "Attackers push down into the Defenders on this two-site map set in a vibrant, underwater city. Pearl is a geo-driven map with no mechanics. Take the fight through a compact mid or the longer range wings in our first map set in Omega Earth.",
+            "wikiDescription": [
+                {
+                    "description":"Pearl is a two-site three-lane map. Following on from the release of more strategically complex maps like Icebox, Breeze, and Fracture, Pearl is designed as a more traditional map. As a result, Pearl is the first map to be released that does not contain any dynamic elements or mechanical hooks for gameplay."
+                },
+                {
+                    "description":null
+                },
+                {
+                    "description":null
+                }
+            ],
+            "location": "Lisbon, Portugal, Omega Earth"
+        },
+        {
+            "displayName": "Lotus",
+            "narrativeDescription": "A mysterious structure housing an astral conduit radiates with ancient power. Great stone doors provide a variety of movement opportunities and unlock the paths to three mysterious sites.",
+            "wikiDescription": [
+                {
+                    "description":"Lotus contains multiple features spread out across the map. It is VALORANT's second three-site map. This does not affect the number of ultimate orbs on the map; Lotus's two ultimate orbs are present in A Main and C Mound."
+                },
+                {
+                    "description":"Two of the map's features are present at the back of A Site. A rope ascender is available to take players from A Site to A Top. When players go down from A Top to A Drop their fall is silenced, provided they do not run and land too far off the drop."
+                },
+                {
+                    "description":"A unique feature to Lotus is its rotating doorways. It has one on A Side standing between A Main and A Tree, and another on C Side standing between C Mound and B Main. The doors can be activated from either side using a toggle button, at which point the door will rotate 180° over 10 seconds, giving players a small window where they can pass through to the other side."
+                }
+            ],
+            "location": " Western Ghats, India, Omega Earth"
+        },
+        {
+            "displayName": "Sunset",
+            "narrativeDescription": "A disaster at a local kingdom facility threatens to engulf the whole neighborhood. Stop at your favorite food truck then fight across the city in this traditional three lane map.",
+            "wikiDescription": [
+                {
+                    "description":"Sunset is one of VALORANT's more traditional maps with two sites and three lanes. Its one additional feature is a mechanical door found between B Market and Mid Courtyard. Players can use a switch on the Market side of the door to close or open it. This door is impenetrable while closed but has 500 HP, allowing players to damage and eventually destroy it. Once destroyed, the doorway remains permanently open for the rest of the round."
+                },
+                {
+                    "description":null
+                },
+                {
+                    "description":null
+                }
+            ],
+            "location": "Los Angeles, California, USA, Alpha Earth"
+        },
+        {
+            "displayName": "Abyss",
+            "narrativeDescription": "Abyss is the eleventh map to be released in VALORANT.",
+            "wikiDescription": [
+                {
+                    "description":"Abyss is the first map in VALORANT to have no outer boundaries and a death drop in Mid, making it possible in these areas for players to fall off the map to their death. Some parts of the map can only be accessed by jumping across these drops; the Danger and Secret positions are narrow ledges on the map's outer boundaries that are used as jump shortcuts. In Mid, players can also only get up to Catwalk directly from Top or Library by making a jump over Mid's death drop to an ascender."
+                },
+                {
+                    "description":"Abyss has three other ascenders, one to take players from A Site up to A Tower, another to take players from B Main up to Mid Bend, and another in Attacker Spawn."
+                },
+                {
+                    "description":"Both entrances to Vent are blocked by doors that absorb damage and gunfire while intact. The doors have 120 HP with colored indicators to imply how much health they have left (starts blue, then turns yellow and then red as it takes more damage). Once destroyed, the passageway will remain clear for the rest of the round."
+                }
+            ],
+            "location": "Sør-Jan, Jan Mayen, Norway, Alpha Earth"
+        }
+    ]
+}
