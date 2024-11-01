@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Tungsten';
+    src: url('tungsten/Tungsten-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Davek';
+    src: url('./davek/Davek.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
